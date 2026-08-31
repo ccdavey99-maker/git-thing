@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #2e69bc;
+    background-color: #5603ad;
     padding: 14px 40px;
 }
 
@@ -27,6 +27,31 @@
     background-color: #03000b
 }
 
-.background {
-    background: #000000;
+body {
+    background-color: #d21313;
 }
+
+form  {
+    align-items: center;
+}
+
+.outside{
+    display: flex;
+}
+
+.left{
+    color: #5603ad;
+
+    background-color: #5603ad;
+}
+.center{
+
+    background-color: #8367C7;
+}
+
+.right {
+    color: #5603ad;
+
+    background-color: #5603ad;
+}
+
